@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a Computer Science student at **FIAP** (São Paulo, Brazil) with a strong interest in **backend development** and **information security**. I spent ~2 years in Ireland, studying at CCT Dublin College and working as a Team Leader — an experience that shaped my communication skills, adaptability and resilience.
+I'm a Computer Science student at **FIAP** (São Paulo, Brazil) with a strong interest in **backend development** and **information security**. I spent ~3 years in Ireland, studying at CCT Dublin College and working as a Team Leader — an experience that shaped my communication skills, adaptability and resilience.
 
 Currently building a **university marketplace platform** focused on clean architecture, security best practices and real-world scalability.
 
