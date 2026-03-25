@@ -14,17 +14,17 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I'm a Computer Science student at **FIAP** (São Paulo, Brazil) with a strong interest in **backend development** and **information security**. I spent ~2 years in Ireland, studying at CCT Dublin College and working as a Team Leader — an experience that shaped my communication skills, adaptability and resilience.
 
 Currently building a **university marketplace platform** focused on clean architecture, security best practices and real-world scalability.
 
-- 🎓 B.Sc. Computer Science — FIAP (2024 – 2030)
-- 🌍 Former student at CCT Dublin College, Ireland (2024 – 2025)
-- 🔐 Interested in backend development, API security and network security
-- 🌱 Currently learning: Python · Linux · Node.js
-- 🗣️ Languages: Portuguese (native) · English — Cambridge B2
+- B.Sc. Computer Science — FIAP (2024 – 2030)
+- Former student at CCT Dublin College, Ireland (2024 – 2025)
+- Interested in backend development, API security and network security
+- Currently learning: Python · Linux · Node.js
+- Languages: Portuguese (native) · English — Cambridge B2
 
 ---
 
@@ -48,25 +48,6 @@ Currently building a **university marketplace platform** focused on clean archit
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
----
-
-## 🚀 Projects
-
-### 🛒 University Marketplace API *(private — in development)*
-> A REST API for a university marketplace platform connecting students for buying, selling and renting services.
-
-- **Stack:** Node.js · Express · PostgreSQL · Prisma · JWT · Cloudflare R2
-- **Features:** JWT authentication with token rotation · multipart image upload to R2 · rate limiting · modular layered architecture · admin panel · chat · transactions · reports
-- **Security:** bcryptjs password hashing · Zod input validation · centralized error handling · sensitive data log sanitization
-
----
-
-### 🔐 Pentest Lab *(local environment)*
-> A controlled lab environment for practicing offensive and defensive security concepts.
-
-- **Stack:** Kali Linux (attacker) · Ubuntu Server (target) · Splunk (monitoring)
-- **Focus:** vulnerability scanning · attack simulation · log analysis · SIEM monitoring
 
 ---
 
