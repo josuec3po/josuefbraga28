@@ -18,12 +18,10 @@
 
 I'm a Computer Science student at **FIAP** (São Paulo, Brazil) with a strong interest in **backend development** and **information security**. I spent ~3 years in Ireland, studying at CCT Dublin College and working as a Team Leader — an experience that shaped my communication skills, adaptability and resilience.
 
-Currently building a **university marketplace platform** focused on clean architecture, security best practices and real-world scalability.
-
-- B.Sc. Computer Science — FIAP (2024 – 2030)
+- B.Sc. Computer Science — FIAP (2026 – 2030)
 - Former student at CCT Dublin College, Ireland (2024 – 2025)
 - Interested in backend development, API security and network security
-- Currently learning: Python · Linux · Node.js
+- Currently learning: Python · Linux · Node.js 
 - Languages: Portuguese (native) · English — Cambridge B2
 
 ---
@@ -33,21 +31,15 @@ Currently building a **university marketplace platform** focused on clean archit
 #### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-#### Security & Tools
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+#### Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 #### Languages & Others
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ---
 
