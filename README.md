@@ -43,15 +43,6 @@ I'm a Computer Science student at **FIAP** (São Paulo, Brazil) with a strong in
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josuec3po&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="Josue's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuec3po&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
-</p>
-
----
-
 ## 📚 Certifications & Courses
 
 | Certificate | Institution | Status |
