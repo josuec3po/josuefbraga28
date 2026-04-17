@@ -51,7 +51,7 @@ I'm a Computer Science student at **FIAP** (São Paulo, Brazil) with a strong in
 | Google Cybersecurity Certificate | Google / Coursera | ⏳ Paused (3/9) |
 | Hacker Skills | FIAP | 🔄 In progress |
 | Python for Everyone | Gustavo Guanabara | 🔄 In progress |
-| Linux Basics | — | 🔄 In progress |
+| Linux Basics | Alura | 🔄 In progress |
 
 ---
 
